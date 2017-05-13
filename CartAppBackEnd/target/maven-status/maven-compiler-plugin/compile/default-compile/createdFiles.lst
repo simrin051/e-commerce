@@ -1,0 +1,17 @@
+com\simrin\model\Cart.class
+com\simrin\dao\CategoryDao.class
+com\simrin\daoimpl\ProductDaoImpl.class
+com\simrin\daoimpl\ShippingDaoImpl.class
+com\simrin\CartAppBackEnd\App.class
+com\simrin\dao\ProductDao.class
+com\simrin\model\Product.class
+com\simrin\dao\UserDao.class
+com\simrin\dao\CartDao.class
+com\simrin\daoimpl\CartDaoImpl.class
+com\simrin\model\Category.class
+com\simrin\model\Users.class
+com\simrin\dao\ShippingDao.class
+com\simrin\daoimpl\CategoryDaoImpl.class
+com\simrin\daoimpl\UserDaoImpl.class
+com\simrin\dbconfig\AppContext.class
+com\simrin\model\Shipping.class

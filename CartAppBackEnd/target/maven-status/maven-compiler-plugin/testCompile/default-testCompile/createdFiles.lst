@@ -1,0 +1,6 @@
+com\simrin\CartAppBackEnd\AppTest.class
+com\simrin\CartAppBackEnd\ShippingTest.class
+com\simrin\CartAppBackEnd\CategoryTest.class
+com\simrin\CartAppBackEnd\CartTest.class
+com\simrin\CartAppBackEnd\ProductTest.class
+com\simrin\CartAppBackEnd\UserTest.class
